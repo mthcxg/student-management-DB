@@ -1,1 +1,1 @@
-# -DB
+# simple student management database
